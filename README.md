@@ -13,7 +13,7 @@ A professional web scraper built with FastAPI and Python. It extracts business l
 **1. Clone the repository:**
 ```bash
 git clone <your-repo-link>
-cd lead_scraper_project
+cd Google-Map-Lead-Scraper
 ```
 
 **2. Create and activate a virtual environment:**
